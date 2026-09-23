@@ -1,0 +1,7 @@
+{
+  "name": "Technology Readiness Management Platform",
+  "description": "Enterprise platform for multi-dimensional readiness management, evidence traceability, stage-gate governance, and risk registers for Life Sciences and DeepTech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
